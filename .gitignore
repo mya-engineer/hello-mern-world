@@ -1,0 +1,5 @@
+.idea
+node_modules
+default.json
+workspace.*
+.vscode/
